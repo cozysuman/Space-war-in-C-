@@ -2,4 +2,4 @@
 
 
 This project is made by SFML library and C++ language in third semester by Suman and Sujan.
-<img>
+<img src="space.jpg">
